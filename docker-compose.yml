@@ -1,0 +1,6 @@
+version : "3.3"
+services : 
+    web:
+        image: vidhia/my-vpc-training
+        ports:
+            -"80:80"
